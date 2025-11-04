@@ -202,3 +202,30 @@ header {
   </div>
 </body>
 </html>
+<div class="catalogue-hommes">
+  <div class="product">
+    <img src="IMG-20240414-WA0016.jpg" alt="Pantalon cargo camouflage bleu beige kaki">
+    <h3>Pantalon cargo camouflage bleu/beige/kaki</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="product">
+    <img src="IMG-20240414-WA0023.jpg" alt="Pantalon cargo camel">
+    <h3>Pantalon cargo couleur camel</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="product">
+    <img src="IMG-20240414-WA0013.jpg" alt="Pantalon cargo camouflage gris jaune noir">
+    <h3>Pantalon cargo camouflage gris/jaune/noir</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="product">
+    <img src="IMG-20240414-WA0014.jpg" alt="Pantalon cargo camouflage bleu beige kaki modèle 2">
+    <h3>Pantalon cargo camouflage bleu/beige/kaki (variante)</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="product">
+    <img src="IMG-20240414-WA0022.jpg" alt="Pantalon cargo kaki vert">
+    <h3>Pantalon cargo kaki vert</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+</div>
