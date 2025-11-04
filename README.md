@@ -229,3 +229,31 @@ header {
     <p>Prix : <strong>10.000 FCFA</strong></p>
   </div>
 </div>
+<!-- Chemin pour la catégorie Vêtements pour hommes -->
+<section id="vetements-hommes">
+  <div class="article">
+    <img src="/images/hommes/IMG-20240414-WA0016.jpg" alt="Pantalon camouflage bleu beige kaki">
+    <h3>Pantalon cargo camouflage bleu/beige/kaki</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="article">
+    <img src="/images/hommes/IMG-20240414-WA0023.jpg" alt="Pantalon camel cargo">
+    <h3>Pantalon cargo couleur camel</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="article">
+    <img src="/images/hommes/IMG-20240414-WA0013.jpg" alt="Pantalon camouflage gris jaune noir">
+    <h3>Pantalon cargo camouflage gris/jaune/noir</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="article">
+    <img src="/images/hommes/IMG-20240414-WA0014.jpg" alt="Pantalon camouflage bleu beige kaki 2">
+    <h3>Pantalon cargo camouflage bleu/beige/kaki (variante)</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+  <div class="article">
+    <img src="/images/hommes/IMG-20240414-WA0022.jpg" alt="Pantalon kaki vert cargo">
+    <h3>Pantalon cargo kaki vert</h3>
+    <p>Prix : <strong>10.000 FCFA</strong></p>
+  </div>
+</section>
