@@ -118,3 +118,8 @@ header {
 ‎    </main>
 ‎</body>
 ‎</html>
+<section id="contact">
+  <h2>Contactez-nous</h2>
+  <p>Téléphone : <a href="tel:+2250747664344">0747664344</a></p>
+  <p>Adresse : Yopougon Gon Maroc, Abidjan, Côte d'Ivoire</p>
+</section>
