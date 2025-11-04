@@ -123,3 +123,82 @@ header {
   <p>Téléphone : <a href="tel:+2250747664344">0747664344</a></p>
   <p>Adresse : Yopougon Gon Maroc, Abidjan, Côte d'Ivoire</p>
 </section>
+< html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catégories d'articles</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    .categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .categorie {
+      background-color: white;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      flex: 1 1 200px;
+      max-width: 300px;
+      text-align: center;
+    }
+    .categorie h2 {
+      color: #2980b9;
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+    }
+    .categorie p {
+      color: #555;
+    }
+    .categorie a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 12px;
+      background-color: #2980b9;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+    .categorie a:hover {
+      background-color: #1c5d85;
+    }
+  </style>
+</head>
+<body>
+  <h1>Nos catégories d'articles</h1>
+  <div class="categories">
+    <div class="categorie">
+      <h2>Électronique</h2>
+      <p>Découvrez une sélection d'appareils et accessoires électroniques de qualité.</p>
+      <a href="categorie-electronique.html">Voir la catégorie</a>
+    </div>
+    <div class="categorie">
+      <h2>Vêtements</h2>
+      <p>Mode pour homme, femme et enfants, avec les dernières tendances.</p>
+      <a href="categorie-vetements.html">Voir la catégorie</a>
+    </div>
+    <div class="categorie">
+      <h2>Maison & Décoration</h2>
+      <p>Articles pour embellir votre intérieur et votre quotidien.</p>
+      <a href="categorie-maison.html">Voir la catégorie</a>
+    </div>
+    <div class="categorie">
+      <h2>Beauté & Santé</h2>
+      <p>Produits de soins, maquillage et bien-être pour toute la famille.</p>
+      <a href="categorie-beaute.html">Voir la catégorie</a>
+    </div>
+    <!-- Ajoutez ici d'autres catégories selon vos besoins -->
+  </div>
+</body>
+</html>
